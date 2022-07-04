@@ -31,3 +31,4 @@ class FinalWin(QWidget):
     
     def next_click(self):
         pass
+    

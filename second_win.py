@@ -28,7 +28,7 @@ class TestWin(QWidget):
         self.name_editor = QLineEdit()
         self.age = QLabel(txt_age)
         self.age_editor = QLineEdit()
-
+        
         self.instr1 = QLabel(txt_test1)
         self.btn1 = QPushButton(txt_starttest1)
         self.test1 = QLineEdit()
